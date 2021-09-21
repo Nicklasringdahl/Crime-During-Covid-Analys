@@ -1,0 +1,436 @@
+,Location Subdivision,Offence Subdivision,Incidents Recorded
+0,11 Dwelling - private,A20 Assault and related offences,22679.0
+1,11 Dwelling - private,A50 Robbery,273.0
+2,11 Dwelling - private,"A70 Stalking, harassment and threatening behaviour",4975.0
+3,11 Dwelling - private,A80 Dangerous and negligent acts endangering people,674.0
+4,11 Dwelling - private,B10 Arson,535.0
+5,11 Dwelling - private,B20 Property damage,12934.0
+6,11 Dwelling - private,B30 Burglary/Break and enter,20432.0
+7,11 Dwelling - private,B40 Theft,22062.0
+8,11 Dwelling - private,B50 Deception,4600.0
+9,11 Dwelling - private,C10 Drug dealing and trafficking,1248.0
+10,11 Dwelling - private,C20 Cultivate or manufacture drugs,686.0
+11,11 Dwelling - private,C30 Drug use and possession,1740.0
+12,11 Dwelling - private,C90 Other drug offences,12.0
+13,11 Dwelling - private,D10 Weapons and explosives offences,1819.0
+14,11 Dwelling - private,D20 Disorderly and offensive conduct,269.0
+15,11 Dwelling - private,D30 Public nuisance offences,865.0
+16,11 Dwelling - private,D40 Public security offences,10.0
+17,11 Dwelling - private,E10 Justice procedures,1102.0
+18,11 Dwelling - private,E20 Breaches of orders,19695.0
+19,11 Dwelling - private,F10 Regulatory driving offences,1.0
+20,11 Dwelling - private,F30 Other government regulatory offences,35.0
+21,11 Dwelling - private,F90 Miscellaneous offences,75.0
+22,11 Dwelling - private,Other crimes against the person,5318.0
+23,12 Dwelling  - non-private,A20 Assault and related offences,670.0
+24,12 Dwelling  - non-private,A50 Robbery,20.0
+25,12 Dwelling  - non-private,"A70 Stalking, harassment and threatening behaviour",78.0
+26,12 Dwelling  - non-private,A80 Dangerous and negligent acts endangering people,22.0
+27,12 Dwelling  - non-private,B10 Arson,29.0
+28,12 Dwelling  - non-private,B20 Property damage,464.0
+29,12 Dwelling  - non-private,B30 Burglary/Break and enter,761.0
+30,12 Dwelling  - non-private,B40 Theft,1220.0
+31,12 Dwelling  - non-private,B50 Deception,201.0
+32,12 Dwelling  - non-private,C10 Drug dealing and trafficking,38.0
+33,12 Dwelling  - non-private,C20 Cultivate or manufacture drugs,8.0
+34,12 Dwelling  - non-private,C30 Drug use and possession,95.0
+35,12 Dwelling  - non-private,D10 Weapons and explosives offences,60.0
+36,12 Dwelling  - non-private,D20 Disorderly and offensive conduct,77.0
+37,12 Dwelling  - non-private,D30 Public nuisance offences,37.0
+38,12 Dwelling  - non-private,D40 Public security offences,1.0
+39,12 Dwelling  - non-private,E10 Justice procedures,49.0
+40,12 Dwelling  - non-private,E20 Breaches of orders,350.0
+41,12 Dwelling  - non-private,F20 Transport regulation offences,2.0
+42,12 Dwelling  - non-private,F30 Other government regulatory offences,6.0
+43,12 Dwelling  - non-private,F90 Miscellaneous offences,1.0
+44,12 Dwelling  - non-private,Other crimes against the person,279.0
+45,13 Grounds/surrounding land,A20 Assault and related offences,1676.0
+46,13 Grounds/surrounding land,A50 Robbery,77.0
+47,13 Grounds/surrounding land,"A70 Stalking, harassment and threatening behaviour",169.0
+48,13 Grounds/surrounding land,A80 Dangerous and negligent acts endangering people,159.0
+49,13 Grounds/surrounding land,B10 Arson,371.0
+50,13 Grounds/surrounding land,B20 Property damage,4484.0
+51,13 Grounds/surrounding land,B30 Burglary/Break and enter,6141.0
+52,13 Grounds/surrounding land,B40 Theft,27942.0
+53,13 Grounds/surrounding land,B50 Deception,320.0
+54,13 Grounds/surrounding land,C10 Drug dealing and trafficking,87.0
+55,13 Grounds/surrounding land,C20 Cultivate or manufacture drugs,117.0
+56,13 Grounds/surrounding land,C30 Drug use and possession,224.0
+57,13 Grounds/surrounding land,C90 Other drug offences,2.0
+58,13 Grounds/surrounding land,D10 Weapons and explosives offences,305.0
+59,13 Grounds/surrounding land,D20 Disorderly and offensive conduct,78.0
+60,13 Grounds/surrounding land,D30 Public nuisance offences,202.0
+61,13 Grounds/surrounding land,D40 Public security offences,1.0
+62,13 Grounds/surrounding land,E10 Justice procedures,122.0
+63,13 Grounds/surrounding land,E20 Breaches of orders,1384.0
+64,13 Grounds/surrounding land,F20 Transport regulation offences,1.0
+65,13 Grounds/surrounding land,F30 Other government regulatory offences,5.0
+66,13 Grounds/surrounding land,F90 Miscellaneous offences,40.0
+67,13 Grounds/surrounding land,Other crimes against the person,212.0
+68,21 Education,A20 Assault and related offences,673.0
+69,21 Education,A50 Robbery,43.0
+70,21 Education,"A70 Stalking, harassment and threatening behaviour",96.0
+71,21 Education,A80 Dangerous and negligent acts endangering people,23.0
+72,21 Education,B10 Arson,67.0
+73,21 Education,B20 Property damage,858.0
+74,21 Education,B30 Burglary/Break and enter,994.0
+75,21 Education,B40 Theft,1755.0
+76,21 Education,B50 Deception,84.0
+77,21 Education,C10 Drug dealing and trafficking,9.0
+78,21 Education,C20 Cultivate or manufacture drugs,1.0
+79,21 Education,C30 Drug use and possession,116.0
+80,21 Education,C90 Other drug offences,1.0
+81,21 Education,D10 Weapons and explosives offences,86.0
+82,21 Education,D20 Disorderly and offensive conduct,54.0
+83,21 Education,D30 Public nuisance offences,132.0
+84,21 Education,D40 Public security offences,1.0
+85,21 Education,E10 Justice procedures,22.0
+86,21 Education,E20 Breaches of orders,430.0
+87,21 Education,F30 Other government regulatory offences,3.0
+88,21 Education,F90 Miscellaneous offences,5.0
+89,21 Education,Other crimes against the person,342.0
+90,22 Health,A20 Assault and related offences,592.0
+91,22 Health,A50 Robbery,11.0
+92,22 Health,"A70 Stalking, harassment and threatening behaviour",133.0
+93,22 Health,A80 Dangerous and negligent acts endangering people,11.0
+94,22 Health,B10 Arson,17.0
+95,22 Health,B20 Property damage,402.0
+96,22 Health,B30 Burglary/Break and enter,336.0
+97,22 Health,B40 Theft,911.0
+98,22 Health,B50 Deception,139.0
+99,22 Health,C10 Drug dealing and trafficking,10.0
+100,22 Health,C20 Cultivate or manufacture drugs,1.0
+101,22 Health,C30 Drug use and possession,88.0
+102,22 Health,D10 Weapons and explosives offences,45.0
+103,22 Health,D20 Disorderly and offensive conduct,57.0
+104,22 Health,D30 Public nuisance offences,23.0
+105,22 Health,D40 Public security offences,1.0
+106,22 Health,E10 Justice procedures,24.0
+107,22 Health,E20 Breaches of orders,261.0
+108,22 Health,Other crimes against the person,135.0
+109,23 Religious,A20 Assault and related offences,48.0
+110,23 Religious,A50 Robbery,3.0
+111,23 Religious,"A70 Stalking, harassment and threatening behaviour",9.0
+112,23 Religious,B10 Arson,11.0
+113,23 Religious,B20 Property damage,185.0
+114,23 Religious,B30 Burglary/Break and enter,266.0
+115,23 Religious,B40 Theft,277.0
+116,23 Religious,B50 Deception,5.0
+117,23 Religious,C10 Drug dealing and trafficking,4.0
+118,23 Religious,C30 Drug use and possession,3.0
+119,23 Religious,D10 Weapons and explosives offences,2.0
+120,23 Religious,D20 Disorderly and offensive conduct,8.0
+121,23 Religious,D30 Public nuisance offences,8.0
+122,23 Religious,D40 Public security offences,1.0
+123,23 Religious,E10 Justice procedures,4.0
+124,23 Religious,E20 Breaches of orders,49.0
+125,23 Religious,Other crimes against the person,33.0
+126,24 Public Transport,A20 Assault and related offences,1318.0
+127,24 Public Transport,A50 Robbery,278.0
+128,24 Public Transport,"A70 Stalking, harassment and threatening behaviour",69.0
+129,24 Public Transport,A80 Dangerous and negligent acts endangering people,35.0
+130,24 Public Transport,B10 Arson,22.0
+131,24 Public Transport,B20 Property damage,1743.0
+132,24 Public Transport,B30 Burglary/Break and enter,35.0
+133,24 Public Transport,B40 Theft,4064.0
+134,24 Public Transport,B50 Deception,278.0
+135,24 Public Transport,C10 Drug dealing and trafficking,37.0
+136,24 Public Transport,C20 Cultivate or manufacture drugs,4.0
+137,24 Public Transport,C30 Drug use and possession,610.0
+138,24 Public Transport,C90 Other drug offences,1.0
+139,24 Public Transport,D10 Weapons and explosives offences,526.0
+140,24 Public Transport,D20 Disorderly and offensive conduct,1098.0
+141,24 Public Transport,D30 Public nuisance offences,42.0
+142,24 Public Transport,E10 Justice procedures,154.0
+143,24 Public Transport,E20 Breaches of orders,426.0
+144,24 Public Transport,F20 Transport regulation offences,121.0
+145,24 Public Transport,F30 Other government regulatory offences,5.0
+146,24 Public Transport,F90 Miscellaneous offences,4.0
+147,24 Public Transport,Other crimes against the person,292.0
+148,25 Other Transport,A20 Assault and related offences,746.0
+149,25 Other Transport,A50 Robbery,119.0
+150,25 Other Transport,"A70 Stalking, harassment and threatening behaviour",59.0
+151,25 Other Transport,A80 Dangerous and negligent acts endangering people,110.0
+152,25 Other Transport,B10 Arson,51.0
+153,25 Other Transport,B20 Property damage,1527.0
+154,25 Other Transport,B30 Burglary/Break and enter,179.0
+155,25 Other Transport,B40 Theft,7116.0
+156,25 Other Transport,B50 Deception,252.0
+157,25 Other Transport,C10 Drug dealing and trafficking,145.0
+158,25 Other Transport,C20 Cultivate or manufacture drugs,26.0
+159,25 Other Transport,C30 Drug use and possession,1295.0
+160,25 Other Transport,D10 Weapons and explosives offences,435.0
+161,25 Other Transport,D20 Disorderly and offensive conduct,231.0
+162,25 Other Transport,D30 Public nuisance offences,26.0
+163,25 Other Transport,E10 Justice procedures,145.0
+164,25 Other Transport,E20 Breaches of orders,534.0
+165,25 Other Transport,F20 Transport regulation offences,32.0
+166,25 Other Transport,F30 Other government regulatory offences,5.0
+167,25 Other Transport,F90 Miscellaneous offences,4.0
+168,25 Other Transport,Other crimes against the person,125.0
+169,26 Justice,A20 Assault and related offences,1109.0
+170,26 Justice,A50 Robbery,11.0
+171,26 Justice,"A70 Stalking, harassment and threatening behaviour",154.0
+172,26 Justice,A80 Dangerous and negligent acts endangering people,29.0
+173,26 Justice,B10 Arson,18.0
+174,26 Justice,B20 Property damage,302.0
+175,26 Justice,B30 Burglary/Break and enter,18.0
+176,26 Justice,B40 Theft,153.0
+177,26 Justice,B50 Deception,82.0
+178,26 Justice,B60 Bribery,1.0
+179,26 Justice,C10 Drug dealing and trafficking,68.0
+180,26 Justice,C20 Cultivate or manufacture drugs,8.0
+181,26 Justice,C30 Drug use and possession,828.0
+182,26 Justice,C90 Other drug offences,1.0
+183,26 Justice,D10 Weapons and explosives offences,755.0
+184,26 Justice,D20 Disorderly and offensive conduct,124.0
+185,26 Justice,D30 Public nuisance offences,19.0
+186,26 Justice,D40 Public security offences,3.0
+187,26 Justice,E10 Justice procedures,821.0
+188,26 Justice,E20 Breaches of orders,8366.0
+189,26 Justice,F10 Regulatory driving offences,2.0
+190,26 Justice,F30 Other government regulatory offences,1.0
+191,26 Justice,F90 Miscellaneous offences,5.0
+192,26 Justice,Other crimes against the person,90.0
+193,27 Open Space,A20 Assault and related offences,876.0
+194,27 Open Space,A50 Robbery,336.0
+195,27 Open Space,"A70 Stalking, harassment and threatening behaviour",63.0
+196,27 Open Space,A80 Dangerous and negligent acts endangering people,66.0
+197,27 Open Space,B10 Arson,494.0
+198,27 Open Space,B20 Property damage,662.0
+199,27 Open Space,B30 Burglary/Break and enter,337.0
+200,27 Open Space,B40 Theft,2562.0
+201,27 Open Space,B50 Deception,81.0
+202,27 Open Space,C10 Drug dealing and trafficking,76.0
+203,27 Open Space,C20 Cultivate or manufacture drugs,17.0
+204,27 Open Space,C30 Drug use and possession,563.0
+205,27 Open Space,D10 Weapons and explosives offences,243.0
+206,27 Open Space,D20 Disorderly and offensive conduct,218.0
+207,27 Open Space,D30 Public nuisance offences,22.0
+208,27 Open Space,D40 Public security offences,1.0
+209,27 Open Space,E10 Justice procedures,79.0
+210,27 Open Space,E20 Breaches of orders,312.0
+211,27 Open Space,F20 Transport regulation offences,24.0
+212,27 Open Space,F30 Other government regulatory offences,6.0
+213,27 Open Space,F90 Miscellaneous offences,27.0
+214,27 Open Space,Other crimes against the person,383.0
+215,28 Street/footpath,A20 Assault and related offences,5333.0
+216,28 Street/footpath,A50 Robbery,1362.0
+217,28 Street/footpath,"A70 Stalking, harassment and threatening behaviour",495.0
+218,28 Street/footpath,A80 Dangerous and negligent acts endangering people,2124.0
+219,28 Street/footpath,B10 Arson,541.0
+220,28 Street/footpath,B20 Property damage,5061.0
+221,28 Street/footpath,B30 Burglary/Break and enter,63.0
+222,28 Street/footpath,B40 Theft,29171.0
+223,28 Street/footpath,B50 Deception,2016.0
+224,28 Street/footpath,C10 Drug dealing and trafficking,898.0
+225,28 Street/footpath,C20 Cultivate or manufacture drugs,114.0
+226,28 Street/footpath,C30 Drug use and possession,4772.0
+227,28 Street/footpath,C90 Other drug offences,3.0
+228,28 Street/footpath,D10 Weapons and explosives offences,3259.0
+229,28 Street/footpath,D20 Disorderly and offensive conduct,4882.0
+230,28 Street/footpath,D30 Public nuisance offences,174.0
+231,28 Street/footpath,E10 Justice procedures,4495.0
+232,28 Street/footpath,E20 Breaches of orders,3783.0
+233,28 Street/footpath,F10 Regulatory driving offences,5.0
+234,28 Street/footpath,F20 Transport regulation offences,21.0
+235,28 Street/footpath,F30 Other government regulatory offences,18.0
+236,28 Street/footpath,F90 Miscellaneous offences,35.0
+237,28 Street/footpath,Other crimes against the person,555.0
+238,29 Other community location,A20 Assault and related offences,75.0
+239,29 Other community location,A50 Robbery,8.0
+240,29 Other community location,"A70 Stalking, harassment and threatening behaviour",6.0
+241,29 Other community location,A80 Dangerous and negligent acts endangering people,2.0
+242,29 Other community location,B10 Arson,8.0
+243,29 Other community location,B20 Property damage,236.0
+244,29 Other community location,B30 Burglary/Break and enter,200.0
+245,29 Other community location,B40 Theft,436.0
+246,29 Other community location,B50 Deception,29.0
+247,29 Other community location,C10 Drug dealing and trafficking,3.0
+248,29 Other community location,C30 Drug use and possession,21.0
+249,29 Other community location,D10 Weapons and explosives offences,11.0
+250,29 Other community location,D20 Disorderly and offensive conduct,10.0
+251,29 Other community location,D30 Public nuisance offences,7.0
+252,29 Other community location,E10 Justice procedures,11.0
+253,29 Other community location,E20 Breaches of orders,65.0
+254,29 Other community location,F20 Transport regulation offences,1.0
+255,29 Other community location,F30 Other government regulatory offences,2.0
+256,29 Other community location,Other crimes against the person,19.0
+257,31 Admin/professional,A20 Assault and related offences,182.0
+258,31 Admin/professional,A50 Robbery,5.0
+259,31 Admin/professional,"A70 Stalking, harassment and threatening behaviour",103.0
+260,31 Admin/professional,A80 Dangerous and negligent acts endangering people,11.0
+261,31 Admin/professional,B10 Arson,13.0
+262,31 Admin/professional,B20 Property damage,663.0
+263,31 Admin/professional,B30 Burglary/Break and enter,1084.0
+264,31 Admin/professional,B40 Theft,1189.0
+265,31 Admin/professional,B50 Deception,615.0
+266,31 Admin/professional,C10 Drug dealing and trafficking,9.0
+267,31 Admin/professional,C20 Cultivate or manufacture drugs,3.0
+268,31 Admin/professional,C30 Drug use and possession,26.0
+269,31 Admin/professional,D10 Weapons and explosives offences,22.0
+270,31 Admin/professional,D20 Disorderly and offensive conduct,23.0
+271,31 Admin/professional,D30 Public nuisance offences,52.0
+272,31 Admin/professional,D40 Public security offences,8.0
+273,31 Admin/professional,E10 Justice procedures,12.0
+274,31 Admin/professional,E20 Breaches of orders,172.0
+275,31 Admin/professional,F10 Regulatory driving offences,1.0
+276,31 Admin/professional,F20 Transport regulation offences,1.0
+277,31 Admin/professional,F30 Other government regulatory offences,8.0
+278,31 Admin/professional,F90 Miscellaneous offences,1.0
+279,31 Admin/professional,Other crimes against the person,68.0
+280,32 Financial,A20 Assault and related offences,52.0
+281,32 Financial,A50 Robbery,24.0
+282,32 Financial,"A70 Stalking, harassment and threatening behaviour",6.0
+283,32 Financial,A80 Dangerous and negligent acts endangering people,2.0
+284,32 Financial,B10 Arson,1.0
+285,32 Financial,B20 Property damage,77.0
+286,32 Financial,B30 Burglary/Break and enter,18.0
+287,32 Financial,B40 Theft,192.0
+288,32 Financial,B50 Deception,803.0
+289,32 Financial,C20 Cultivate or manufacture drugs,1.0
+290,32 Financial,C30 Drug use and possession,5.0
+291,32 Financial,D10 Weapons and explosives offences,9.0
+292,32 Financial,D20 Disorderly and offensive conduct,7.0
+293,32 Financial,D30 Public nuisance offences,1.0
+294,32 Financial,D40 Public security offences,1.0
+295,32 Financial,E10 Justice procedures,2.0
+296,32 Financial,E20 Breaches of orders,24.0
+297,32 Financial,Other crimes against the person,4.0
+298,33 Retail,A20 Assault and related offences,3344.0
+299,33 Retail,A50 Robbery,514.0
+300,33 Retail,"A70 Stalking, harassment and threatening behaviour",333.0
+301,33 Retail,A80 Dangerous and negligent acts endangering people,175.0
+302,33 Retail,B10 Arson,89.0
+303,33 Retail,B20 Property damage,3237.0
+304,33 Retail,B30 Burglary/Break and enter,4899.0
+305,33 Retail,B40 Theft,38954.0
+306,33 Retail,B50 Deception,10132.0
+307,33 Retail,C10 Drug dealing and trafficking,123.0
+308,33 Retail,C20 Cultivate or manufacture drugs,25.0
+309,33 Retail,C30 Drug use and possession,541.0
+310,33 Retail,C90 Other drug offences,2.0
+311,33 Retail,D10 Weapons and explosives offences,668.0
+312,33 Retail,D20 Disorderly and offensive conduct,606.0
+313,33 Retail,D30 Public nuisance offences,165.0
+314,33 Retail,D40 Public security offences,3.0
+315,33 Retail,E10 Justice procedures,193.0
+316,33 Retail,E20 Breaches of orders,4439.0
+317,33 Retail,F30 Other government regulatory offences,23.0
+318,33 Retail,F90 Miscellaneous offences,28.0
+319,33 Retail,Other crimes against the person,309.0
+320,34 Wholesale,A20 Assault and related offences,13.0
+321,34 Wholesale,A50 Robbery,1.0
+322,34 Wholesale,"A70 Stalking, harassment and threatening behaviour",3.0
+323,34 Wholesale,A80 Dangerous and negligent acts endangering people,1.0
+324,34 Wholesale,B20 Property damage,23.0
+325,34 Wholesale,B30 Burglary/Break and enter,72.0
+326,34 Wholesale,B40 Theft,121.0
+327,34 Wholesale,B50 Deception,44.0
+328,34 Wholesale,C30 Drug use and possession,3.0
+329,34 Wholesale,D10 Weapons and explosives offences,2.0
+330,34 Wholesale,E20 Breaches of orders,10.0
+331,34 Wholesale,Other crimes against the person,3.0
+332,35 Warehousing/storage,A20 Assault and related offences,52.0
+333,35 Warehousing/storage,A50 Robbery,2.0
+334,35 Warehousing/storage,"A70 Stalking, harassment and threatening behaviour",10.0
+335,35 Warehousing/storage,A80 Dangerous and negligent acts endangering people,4.0
+336,35 Warehousing/storage,B10 Arson,8.0
+337,35 Warehousing/storage,B20 Property damage,182.0
+338,35 Warehousing/storage,B30 Burglary/Break and enter,692.0
+339,35 Warehousing/storage,B40 Theft,659.0
+340,35 Warehousing/storage,B50 Deception,58.0
+341,35 Warehousing/storage,C10 Drug dealing and trafficking,7.0
+342,35 Warehousing/storage,C20 Cultivate or manufacture drugs,3.0
+343,35 Warehousing/storage,C30 Drug use and possession,13.0
+344,35 Warehousing/storage,D10 Weapons and explosives offences,18.0
+345,35 Warehousing/storage,D20 Disorderly and offensive conduct,1.0
+346,35 Warehousing/storage,D30 Public nuisance offences,14.0
+347,35 Warehousing/storage,E10 Justice procedures,1.0
+348,35 Warehousing/storage,E20 Breaches of orders,45.0
+349,35 Warehousing/storage,F30 Other government regulatory offences,1.0
+350,35 Warehousing/storage,Other crimes against the person,5.0
+351,36 Manufacturing,A20 Assault and related offences,143.0
+352,36 Manufacturing,A50 Robbery,2.0
+353,36 Manufacturing,"A70 Stalking, harassment and threatening behaviour",14.0
+354,36 Manufacturing,A80 Dangerous and negligent acts endangering people,6.0
+355,36 Manufacturing,B10 Arson,14.0
+356,36 Manufacturing,B20 Property damage,285.0
+357,36 Manufacturing,B30 Burglary/Break and enter,924.0
+358,36 Manufacturing,B40 Theft,1217.0
+359,36 Manufacturing,B50 Deception,97.0
+360,36 Manufacturing,C10 Drug dealing and trafficking,16.0
+361,36 Manufacturing,C20 Cultivate or manufacture drugs,29.0
+362,36 Manufacturing,C30 Drug use and possession,26.0
+363,36 Manufacturing,D10 Weapons and explosives offences,24.0
+364,36 Manufacturing,D20 Disorderly and offensive conduct,2.0
+365,36 Manufacturing,D30 Public nuisance offences,15.0
+366,36 Manufacturing,D40 Public security offences,1.0
+367,36 Manufacturing,E10 Justice procedures,6.0
+368,36 Manufacturing,E20 Breaches of orders,49.0
+369,36 Manufacturing,F90 Miscellaneous offences,3.0
+370,36 Manufacturing,Other crimes against the person,20.0
+371,37 Agricultural,A20 Assault and related offences,44.0
+372,37 Agricultural,"A70 Stalking, harassment and threatening behaviour",6.0
+373,37 Agricultural,A80 Dangerous and negligent acts endangering people,10.0
+374,37 Agricultural,B10 Arson,102.0
+375,37 Agricultural,B20 Property damage,205.0
+376,37 Agricultural,B30 Burglary/Break and enter,262.0
+377,37 Agricultural,B40 Theft,822.0
+378,37 Agricultural,B50 Deception,21.0
+379,37 Agricultural,C10 Drug dealing and trafficking,10.0
+380,37 Agricultural,C20 Cultivate or manufacture drugs,4.0
+381,37 Agricultural,C30 Drug use and possession,20.0
+382,37 Agricultural,D10 Weapons and explosives offences,27.0
+383,37 Agricultural,D20 Disorderly and offensive conduct,1.0
+384,37 Agricultural,D30 Public nuisance offences,22.0
+385,37 Agricultural,E10 Justice procedures,7.0
+386,37 Agricultural,E20 Breaches of orders,19.0
+387,37 Agricultural,F20 Transport regulation offences,1.0
+388,37 Agricultural,F90 Miscellaneous offences,21.0
+389,37 Agricultural,Other crimes against the person,15.0
+390,38 Recreational,A20 Assault and related offences,1660.0
+391,38 Recreational,A50 Robbery,73.0
+392,38 Recreational,"A70 Stalking, harassment and threatening behaviour",76.0
+393,38 Recreational,A80 Dangerous and negligent acts endangering people,53.0
+394,38 Recreational,B10 Arson,56.0
+395,38 Recreational,B20 Property damage,919.0
+396,38 Recreational,B30 Burglary/Break and enter,1343.0
+397,38 Recreational,B40 Theft,5148.0
+398,38 Recreational,B50 Deception,634.0
+399,38 Recreational,C10 Drug dealing and trafficking,77.0
+400,38 Recreational,C20 Cultivate or manufacture drugs,3.0
+401,38 Recreational,C30 Drug use and possession,464.0
+402,38 Recreational,C90 Other drug offences,10.0
+403,38 Recreational,D10 Weapons and explosives offences,188.0
+404,38 Recreational,D20 Disorderly and offensive conduct,761.0
+405,38 Recreational,D30 Public nuisance offences,57.0
+406,38 Recreational,E10 Justice procedures,84.0
+407,38 Recreational,E20 Breaches of orders,732.0
+408,38 Recreational,F20 Transport regulation offences,1.0
+409,38 Recreational,F30 Other government regulatory offences,51.0
+410,38 Recreational,F90 Miscellaneous offences,6.0
+411,38 Recreational,Other crimes against the person,331.0
+412,39 Other location,A20 Assault and related offences,251.0
+413,39 Other location,A50 Robbery,15.0
+414,39 Other location,"A70 Stalking, harassment and threatening behaviour",104.0
+415,39 Other location,A80 Dangerous and negligent acts endangering people,57.0
+416,39 Other location,B10 Arson,58.0
+417,39 Other location,B20 Property damage,545.0
+418,39 Other location,B30 Burglary/Break and enter,1383.0
+419,39 Other location,B40 Theft,2566.0
+420,39 Other location,B50 Deception,367.0
+421,39 Other location,C10 Drug dealing and trafficking,71.0
+422,39 Other location,C20 Cultivate or manufacture drugs,7.0
+423,39 Other location,C30 Drug use and possession,281.0
+424,39 Other location,C90 Other drug offences,3.0
+425,39 Other location,D10 Weapons and explosives offences,193.0
+426,39 Other location,D20 Disorderly and offensive conduct,75.0
+427,39 Other location,D30 Public nuisance offences,65.0
+428,39 Other location,E10 Justice procedures,134.0
+429,39 Other location,E20 Breaches of orders,519.0
+430,39 Other location,F10 Regulatory driving offences,1.0
+431,39 Other location,F20 Transport regulation offences,11.0
+432,39 Other location,F30 Other government regulatory offences,13.0
+433,39 Other location,F90 Miscellaneous offences,4.0
+434,39 Other location,Other crimes against the person,143.0
